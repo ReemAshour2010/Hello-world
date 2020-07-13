@@ -1,3 +1,2 @@
-git add -A 
-git commit -m "Change"
+git commit -a -m "Change the project"
 git push
